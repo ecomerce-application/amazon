@@ -9,5 +9,4 @@ and more about devops
 bdayu
 dws
 fe
-=======
->>>>>>> parent of d7cff82... cheanges
+charan development
