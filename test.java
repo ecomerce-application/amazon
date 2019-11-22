@@ -5,6 +5,9 @@ here is the details about github
 github is a one central repository
 need to learn more about git and github
 and more about devops
+<<<<<<< HEAD
 bdayu
 dws
 fe
+=======
+>>>>>>> parent of d7cff82... cheanges
