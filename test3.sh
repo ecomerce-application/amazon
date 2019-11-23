@@ -10,7 +10,7 @@ busy
 busy
 no
 no
+no
+no
 npo
-
-npo
-npn
+no
