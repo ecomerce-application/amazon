@@ -8,4 +8,9 @@ busy
 busyy
 busy
 busy
+no
+no
+npo
 
+npo
+npn
